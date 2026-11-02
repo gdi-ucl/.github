@@ -14,7 +14,24 @@ Research, tools and publications from GDI Hub’s Academic Research Centre and C
 
 <sub>Images from the <a href="https://www.disabilityinnovation.com">GDI Hub website</a>. Select a picture to explore the related work.</sub>
 
-- [Projects](https://github.com/gdi-ucl/projects) — explore GDI project profiles, pictures and resources.
+## GDI projects
+
+Explore projects, programmes and research from GDI Hub’s Academic Research Centre and CIC.
+
+**[Browse all 91 profiles](https://github.com/gdi-ucl/projects/blob/main/PROJECTS.md)** · [GDI website](https://www.disabilityinnovation.com/projects) · [Publications and reports](https://github.com/gdi-ucl/publications-and-reports)
+
+| Explore | Includes |
+| --- | --- |
+| [AT2030](https://github.com/gdi-ucl/projects/tree/main/at2030/) | Assistive technology, local systems, mobile access and inclusion |
+| [TIDAL](https://github.com/gdi-ucl/projects/tree/main/about-tidal/) | Community, innovation, feasibility research and education |
+| [PhD research](https://github.com/gdi-ucl/projects/tree/main/phd-research-programme/) | 12 doctoral research profiles |
+| [Inclusive research guidance](https://github.com/gdi-ucl/projects/tree/main/inclusive-research/) | Guidance and 19 linked video profiles |
+| [All other projects and resources](https://github.com/gdi-ucl/projects/blob/main/PROJECTS.md) | Design, infrastructure, prosthetics, AI, education and more |
+
+Each folder contains a short summary, available website details, source links and a picture where the source provides one. Programme pages link to their subprojects.
+
+## Share your work
+
 - **[Publications and reports](https://github.com/gdi-ucl/publications-and-reports)** — browse published outputs and report summaries.
 - **[Project template](https://github.com/gdi-ucl/template-project)** — copy the format and add your own project.
 - **[Innovate Now](https://github.com/gdi-ucl/publications-and-reports/tree/main/innovate-now)** — see a completed publication example.
