@@ -14,6 +14,7 @@ Research, tools and publications from GDI Hub’s Academic Research Centre and C
 
 <sub>Images from the <a href="https://www.disabilityinnovation.com">GDI Hub website</a>. Select a picture to explore the related work.</sub>
 
+- [Projects](https://github.com/gdi-ucl/projects) — explore GDI project profiles, pictures and resources.
 - **[Publications and reports](https://github.com/gdi-ucl/publications-and-reports)** — browse published outputs and report summaries.
 - **[Project template](https://github.com/gdi-ucl/template-project)** — copy the format and add your own project.
 - **[Innovate Now](https://github.com/gdi-ucl/publications-and-reports/tree/main/innovate-now)** — see a completed publication example.
